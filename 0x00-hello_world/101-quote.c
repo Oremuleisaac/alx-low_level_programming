@@ -3,9 +3,9 @@
 
 
 /**
- * main - prints exactiy and that pieceof art is usefuly
+ * main - prints exactly and that piece of art is usefuly
  *
- * Return: Always 0 (Success)
+ * Return: Always 1 (Success)
  */
 
 int main(void)
