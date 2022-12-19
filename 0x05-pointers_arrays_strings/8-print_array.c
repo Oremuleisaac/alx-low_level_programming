@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * print_arry - prints i element of an arry of integers
+ * print_arry - prints n element of an arry of integers
  * @a: int to check
  * @n: int to check
  * Return: 0 is success
