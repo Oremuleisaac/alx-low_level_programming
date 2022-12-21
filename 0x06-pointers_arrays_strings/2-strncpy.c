@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strncpy - function that couples a stirng
+ * _strncpy - function that copies a stirng
  *
  * @src: The source of strings
  * @dest: The destination of the string
@@ -15,7 +15,7 @@ char *_strncpy(char *dest, char *src, int n)
 
 	for (i = 0; i < n && *(src + i); i++)
 	{
-		*(dest + 1) = *(src + i);
+		*(dest + i) = *(src + i);
 	}
 	for (; i < n; i++)
 	{
