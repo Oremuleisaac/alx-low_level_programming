@@ -9,7 +9,3 @@ int _islower(int c)
 {
 	return (c >= 'a' && c <= 'z');
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
